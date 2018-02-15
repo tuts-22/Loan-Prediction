@@ -9,3 +9,5 @@ Run the xgb.py file to get the required output.
 Here Xgb stands for X boosted trees.Read about it on google. It is used to boost accuracy of random forest and decision tree algorithms
 
 The id.csv is the data set obtained by separating the ids of loans to be used in the output!
+
+The obtained Accuracy is approximately 81%
